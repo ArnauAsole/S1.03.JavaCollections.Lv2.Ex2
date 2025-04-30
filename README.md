@@ -50,7 +50,7 @@ If you want to work with a version-controlled repository, you can clone it from 
 
 ```bash
 git clone https://github.com/ArnauAsole/S1.03.JavaCollections.Lv2.Ex2.git
-cd restaurant-sorting-java
+cd ArnauAsole/S1.03.JavaCollections.Lv2.Ex2/
 3. Open the Project
 Open the project folder in IntelliJ IDEA by going to File → Open and selecting the folder where your project resides.
 
